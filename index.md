@@ -6,7 +6,7 @@ I build this page to share the projects I made in my master study.
 
 Comparing the Probability of Credit Card Approval between AIC-based Model Selection and Ridge Penalty
 
-Analysis and Prediction of the Tendency of Stock
+[Analysis and Prediction of the Tendency of Stock](https://github.com/ws770324/logist_stock)
 
 Classification and Missing-data imputation by Machine Learning Methods
 
