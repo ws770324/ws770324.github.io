@@ -10,6 +10,6 @@ Comparing the Probability of Credit Card Approval between AIC-based Model Select
 
 Classification and Missing-data imputation by Machine Learning Methods
 
-Comparing Sampling Survey Methods Using HIV Follow-up Data
+[Comparing Sampling Survey Methods Using HIV Follow-up Data](https://github.com/ws770324/surveytech_HIV)
 
 Classification of Vowel Sound
