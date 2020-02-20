@@ -9,7 +9,7 @@ The data was the record of all players who attend the Australia Open in 2017. I 
 ### Comparing the Probability of Credit Card Approval between AIC-based Model Selection and Ridge Penalty
 
 ### [Analysis and Prediction of the Tendency of Stock](https://github.com/ws770324/logist_stock)
-Years ago I　invested stocks using some strategies I learned from books and some instructors but these strategies did not help me to reach my goal. Therefore, I choose the stock data from 2015 to 2019 and used hierarchical clustering, PCA, and logistic regression to contruct a predictive model to examine these strategies.
+Years ago I invested stocks market using the strategies I learned from books and some instructors but unfortunately these strategies did not help me to reach my goal. Therefore, I choose the stock data from 2015 to 2019 and used hierarchical clustering, PCA, and logistic regression to contruct a predictive model to examine these strategies.
 
 ### Classification and Missing-data imputation by Machine Learning Methods
 
