@@ -18,3 +18,6 @@ Years ago I invested stocks market using the strategies I learned from books and
 Different to previous projects, this project focus on sampling techniques. I simulated sampling results using HIV follow-up data to compare the variation and the accuracy on different sampling methods.
 
 ### Classification of Vowel Sound
+
+### [Explore venues around Toronto](https://github.com/ws770324/scraping)
+It's a very interesting project! I scaped postcode in Toronto from Wikipedia and used Foursquare API to access venues around each area, and finally visualized the result using folium. 
