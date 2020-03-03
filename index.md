@@ -2,7 +2,7 @@
 
 I build this page to share the projects I made during my master study.Feel free to browse my works and give me some feedback :)
 
-
+---
 ### [Predicting the Odds of Winning a Match on tennis](https://github.com/ws770324/logist_AUO2017) 
 
 The data was the record of all players who attend the Australia Open in 2017. I used PCA and model selectino to extract data from the first round and built a logistic model to predict the the winners of the second round. 
