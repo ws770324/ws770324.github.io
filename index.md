@@ -1,6 +1,8 @@
 # Welcome!!
 
-I build this page to share my projects during my master study.Feel free to browse my works and give me some feedback :)
+Here are projects I did during my master study. Please do not hesitate to share your valuable comments with me for future studies.
+
+Chen-Tze
 
 ---
 ### Titanic prediction challenge
