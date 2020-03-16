@@ -5,7 +5,7 @@ Here are projects I did during my master study. Please do not hesitate to share 
 Chen-Tze
 
 ---
-### Titanic prediction challenge
+### [Titanic prediction challenge](https://github.com/ws770324/titanic)
 
 This might be the first projects for many people. It's exciting when we are more close to how they made the decision but it's sad to know they have to make that decision. I used data visualization methods and EDA to approach the decision theory and built a decision tree based on the information. 
 
