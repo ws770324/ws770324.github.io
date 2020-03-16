@@ -10,11 +10,10 @@ Chen-Tze
 This might be the first projects for many people. It's exciting when we are more close to how they made the decision but it's sad to know they have to make that decision. I used data visualization methods and EDA to approach the decision theory and built a decision tree based on the information. 
 
 ---
-### [Atlanta food 101](https://github.com/ws770324/capstone) (other links: [Blog](https://www.linkedin.com/pulse/food-101-students-atlanta-chen-tze-tsai/?trackingId=xcvAnLIQRLS4TofvuxpFLg%3D%3D), [nbviwer](https://nbviewer.jupyter.org/github/ws770324/capstone/blob/master/atl_restaurant.ipynb))
-
+### [Atlanta food 101](https://github.com/ws770324/capstone) 
 
 Nice food is so important for graduate students. No one can reject hot beef fried Rice and a cup of ice boba milk tea after a whole day work. In this project, I will find out the best place to live for students in Atlanta using Foursquare API and visualization. 
-
+(other links: [Blog](https://www.linkedin.com/pulse/food-101-students-atlanta-chen-tze-tsai/?trackingId=xcvAnLIQRLS4TofvuxpFLg%3D%3D), [nbviwer](https://nbviewer.jupyter.org/github/ws770324/capstone/blob/master/atl_restaurant.ipynb))
 
 ---
 ### [Explore venues around Toronto](https://github.com/ws770324/scraping)
