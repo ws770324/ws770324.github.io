@@ -1,13 +1,21 @@
-# Welcome!!
+# Hi, I'm Chen-Tze
 
-Here are projects I did during my master study. Please do not hesitate to share your valuable comments with me for future studies.
+I'm a Data scientist and a current math-statistics major graduate student. Proficient in all the components of data analytics, including retrieving data using SQL, data preparation, exploratory analysis, data- and hypothesis-driven model construction. 
+
+Here are links of the projects I did during my master study. Please do not hesitate to share your valuable comments with me for future studies.
 
 Chen-Tze
+[My LinkedIn](https://www.linkedin.com/in/chen-tze-tsai-72b576104/)
+
+---
+### [Stock Exploratory](https://github.com/ws770324/stock)
+
+Record of playing stock data.
 
 ---
 ### [Titanic prediction challenge](https://github.com/ws770324/titanic)
 
-This might be the first projects for many people. It's exciting when we are more close to how they made the decision but it's sad to know they have to make that decision. I used data visualization methods and EDA to approach the decision theory and built a decision tree based on the information. 
+This might be the first projects for many people. I used data visualization methods and EDA to approach the decision theory and built a decision tree based on the information. 
 
 ---
 ### [Atlanta food 101](https://github.com/ws770324/capstone) 
